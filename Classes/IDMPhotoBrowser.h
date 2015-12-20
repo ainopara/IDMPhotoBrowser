@@ -80,4 +80,6 @@
 // Get IDMPhoto at index
 - (id<IDMPhoto>)photoAtIndex:(NSUInteger)index;
 
+- (void)doneButtonPressed:(id)sender;
+
 @end
